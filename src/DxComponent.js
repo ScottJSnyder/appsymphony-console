@@ -60,7 +60,7 @@ class DxComponent extends React.Component {
                         opened={this.state.isDrawerOpen} >
                         <div id="view">
                                 <div>
-                                <BrowserRouter basename="/appsymphony-console8" history={history}> 
+                                <BrowserRouter basename="/appsymphony-console" history={history}> 
                                     <Route exact path="/" component={Home} />
                                     <Route exact path="/home" component={Home} />
                                     <Route exact path="/apps" component={Apps} />

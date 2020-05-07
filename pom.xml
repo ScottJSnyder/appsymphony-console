@@ -3,7 +3,7 @@
 		 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.optensity</groupId>
-    <artifactId>appsymphony-console8</artifactId>
+    <artifactId>appsymphony-console</artifactId>
     <version>4.0</version>
     <packaging>war</packaging>
 
